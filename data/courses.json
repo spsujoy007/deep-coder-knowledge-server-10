@@ -3,48 +3,54 @@
       "_id": 1,
       "img": "http://alfa-cyber.com/wp-content/uploads/2021/06/170427-636923997581008095-16x9-1.jpg",
       "title": "Learn HTML",
-      "description": "he HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser.",
+      "description": "he HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document.",
       "module": 5,
+      "duration": "1",
       "course_title": "programming"
     },
     {
       "_id": 2,
       "img": "https://cdn.mos.cms.futurecdn.net/Vp9WvV7YKdH4k8sKRePcE8.jpg",
       "title": "Learn CSS-3",
-      "description": "Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML.",
+      "description": "Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML. CSS is designed to enable the separation of content and presentation, including layout, colors, and fonts.[3] This separation can improve content accessibility; provide more flexibility",
       "module": 3,
+      "duration": "1",
       "course_title": "programming"
     },
     {
       "_id": 3,
       "img": "https://cdn.mansfeld.pl/wp-content/uploads/2020/04/kurs-bootstrap-5.png",
       "title": "Learn Bootstrap",
-      "description": "Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. ",
+      "description": "Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. Originally created by a designer and a developer at Twitter, Bootstrap has become one of the most popular front-end frameworks and open source projects in the world.",
       "module": 2,
+      "duration": "1",
       "course_title": "programming"
     },
     {
       "_id": 4,
       "img": "https://laravelnews.imgix.net/images/tailwindcss.png?ixlib=php-3.3.1",
       "title": "Learn Tailwind css",
-      "description": "Tailwind CSS is an open source CSS framework. The main feature of this library is that, unlike other CSS frameworks like Bootstrap,",
+      "description": "Tailwind CSS is an open source CSS framework. The main feature of this library is that, unlike other CSS frameworks like Bootstrap, For example, in other traditional systems, there would be a class message-warning that would apply a yellow background color and bold text. To achieve this result in Tailwind, one would have to apply a set of classes",
       "module": 3,
+      "duration": "1",
       "course_title": "programming"
     },
     {
       "_id": 5,
       "img": "https://i.ytimg.com/vi/jS4aFq5-91M/maxresdefault.jpg",
       "title": "Learn Javascript",
-      "description": "JavaScript, often abbreviated to JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. ",
+      "description": "JavaScript, often abbreviated to JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. JavaScript runs on the client side of the web, which can be used to design / program how the web pages behave on the occurrence of an event. JavaScript is an easy to learn and also powerful scripting language",
       "module": 6,
+      "duration": "1",
       "course_title": "programming"
     },
     {
       "_id": 6,
       "img": "https://i.ytimg.com/vi/JPT3bFIwJYA/maxresdefault.jpg",
       "title": "Learn React JS",
-      "description": "React is a free and open-source front-end JavaScript library for building user interfaces based on UI components.",
+      "description": "React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. React can be used as a base in the development of single-page, mobile, or server-rendered applications with frameworks like Next.js. However, React is only concerned with state management and rendering that state to the DOM",
       "module": 6,
+      "duration": "1",
       "course_title": "programming"
     }
   ]
