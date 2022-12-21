@@ -1,7 +1,7 @@
 [
     {
       "_id": 1,
-      "img": "http://alfa-cyber.com/wp-content/uploads/2021/06/170427-636923997581008095-16x9-1.jpg",
+      "img": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210203170945/HTML-Tutorials.png",
       "title": "Learn HTML",
       "description": "he HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document.",
       "module": 5,
